@@ -1,4 +1,3 @@
-
 [Illustration:
 
   _A. Ritchie, Del^t._ —— _W. Douglas, Sr._
@@ -20889,5 +20888,3 @@ suffered.
     ○ The use of a caret (^) before a letter, or letters, shows that the
       following letter or letters was intended to be a superscript, as
       in S^t Bartholomew or 10^{th} Century.
-
-
